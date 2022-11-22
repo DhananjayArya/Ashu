@@ -5,7 +5,7 @@ global class StripeAPI {
             if(s!=null){
                 return s.Stripe_Secret_Live_Key__c;
             }
-         return null;   
+         return null;   // testing comment
         }
     }
     /*
